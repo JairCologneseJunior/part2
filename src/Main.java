@@ -28,15 +28,13 @@ public class Main {
 //            System.out.printf("voce nao tem nota suficiente %d", total);
 //      }
         //at2
-//teste
-//        System.out.printf("Digite a temperatura ");
-//        Scanner ler= new Scanner(System.in);
-//        String temp = ler.nextLine();
-//        System.out.printf("digite se a temperatura esta em Celsius (C)" +
-//                " ou se esta em fahrenheit (F) ");
-// parc >=3 || parc <=24
+//System.out.println("2. Conversor Celsius / Farenheit (revisitado)");
+//double c = 0;
+//double f = 32;
+//double r = (c * 9/5) + f;
+//System.out.println("C " + c);
+//System.out.println("F " + r + "\n");
 //at3
-
 
 //        System.out.printf("Digite sua idade");
 //        Scanner idade = new Scanner(System.in);
